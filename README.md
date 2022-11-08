@@ -1,18 +1,19 @@
-# 💫 About Me:
-Hi There<br>im Kourosh
+<h1 align="center">Hi 👋, I'm kourosh</h1>
+<h3 align="center">FrontEnder</h3>
 
+- 🌱 I’m currently learning **ReactJS**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kourosh_elkaie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kourosh elkaie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kouroshelkaie) 
+- 💬 Ask me about **JS,React,Css**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kouroshelkaie&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kouroshelkaie&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kouroshelkaie&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 📫 How to reach me **kourosh.elkaie@gmail**
 
----
-[![](https://visitcount.itsvg.in/api?id=kouroshelkaie&icon=1&color=3)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/kouroshelkaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kouroshelkaie" height="30" width="40" /></a>
+<a href="https://twitter.com/kouroshelkaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kouroshelkaie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kourosh elkaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kourosh elkaie" height="30" width="40" /></a>
+<a href="https://instagram.com/kourosh_elkaie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kourosh_elkaie" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
