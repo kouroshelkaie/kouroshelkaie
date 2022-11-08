@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kourosh</h1>
-<h3 align="center">FrontEnder</h3>
+<h3 align="left">FrontEnder</h3>
 
 - 🌱 I’m currently learning **ReactJS**
 
