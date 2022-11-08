@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋, I'm kourosh</h3>
+<h3 align="left">Hi 👋</h3> <h3>I'm kourosh</h3>
 <h4 align="left">FrontEnder</h4>
 
 - 🌱 I’m currently learning **ReactJS**
